@@ -1,31 +1,4 @@
-# robots.txt — Tech From Malabar
-# https://techfrommalabar.github.io/TechFromMalabar/
-
 User-agent: *
 Allow: /
 
-# Allow major image and AI crawlers (explicit)
-User-agent: Googlebot
-Allow: /
-
-User-agent: Googlebot-Image
-Allow: /
-
-User-agent: Bingbot
-Allow: /
-
-User-agent: DuckDuckBot
-Allow: /
-
-# Block known bad/aggressive crawlers (optional, common defaults)
-User-agent: AhrefsBot
-Disallow: /
-
-User-agent: SemrushBot
-Disallow: /
-
-User-agent: MJ12bot
-Disallow: /
-
-# Sitemap
 Sitemap: https://techfrommalabar.github.io/TechFromMalabar/sitemap.xml
