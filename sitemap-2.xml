@@ -1,0 +1,917 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- ===== CORE PAGES ===== -->
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/about.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/founder.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/contact.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/privacy-policy.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/disclaimer.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/affiliate-disclosure.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/faq.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- ===== CATEGORY PAGES ===== -->
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/category/car-accessories.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/category/creator-gear.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/category/deals.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/category/desk-office.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/category/gaming.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/category/girls-beauty-tech.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/category/headphones.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/category/home-kitchen.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/category/hostellers-essentials.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/category/monsoon-essentials.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/category/privacy-security.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/category/smart-rings.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/category/smart-gadgets.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/category/smartwatches.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/category/speakers.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/category/tools-utilities.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/category/smart-tv.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- ===== PRODUCT PAGES — CAR ACCESSORIES ===== -->
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/1-dadlm-3in1-portable-car-vacuum-cleaner.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/5-car-scratch-repair-paint-pen.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/6-8pcs-microfiber-car-cleaning-kit.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/7-car-tissue-holder.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/8-carbon-fiber-protection-film-tape.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/9-car-seat-headrest-hooks.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/87-portronics-tune-lite-mini-carplay-android-auto-receiver.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/88-cce-scooter-front-baby-seat-foldable.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/89-agaro-primo-portable-jump-starter-12000mah.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/90-carfrill-blind-spot-mirror.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/91-serveuttam-gps-hud-speedometer-head-up-display.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- ===== PRODUCT PAGES — CONTENT CREATOR GEAR ===== -->
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/2-digitek-mini-rgb-led-video-light.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/3-amazon-basics-t-shape-backdrop-stand.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- ===== PRODUCT PAGES — DEALS ===== -->
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/25-gyro-ball-wrist-exerciser.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/30-portable-cordless-heating-pad.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/32-whoop-one-health-fitness-wearable.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- ===== PRODUCT PAGES — DESK & OFFICE ===== -->
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/12-shuttle-art-desk-organizer.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/13-xech-ambient-night-lamp-pen-stand.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/16-acrylic-led-writing-board.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/18-mechanical-switch-fidget-keychain.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- ===== PRODUCT PAGES — GAMING ===== -->
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/4-rc-rock-crawler-smoke-car.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/19-xxl-gaming-mouse-pad.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/20-hd-mobile-screen-magnifier.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/21-500in1-retro-handheld-game-console.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/107-evofox-blaze-ultra-gaming-mouse.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/108-redragon-kumara-k552-mechanical-keyboard.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/109-evofox-one-s-v2-wireless-gaming-controller.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/110-besecou-magnetic-mobile-cooler.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/111-vero-forza-glide-pro-gaming-finger-sleeves.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- ===== PRODUCT PAGES — GIRLS & BEAUTY TECH ===== -->
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/82-urban-yog-makemeebold-3in1-hot-air-brush.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/83-antils-face-ice-roller.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/84-small-travel-led-makeup-mirror-case.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/85-braun-face-mini-hair-remover-fs1000.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/86-ownair-handheld-garment-steamer.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- ===== PRODUCT PAGES — HEADPHONES ===== -->
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/33-zebronics-duke-plus-2026-wireless-headphones.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/34-boat-rockerz-550-wireless-headphones.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/35-zebronics-duke-2026-wireless-headphone.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/36-blaupunkt-bh41-bluetooth-wireless-headphones.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/37-gm-gplus-headphones.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- ===== PRODUCT PAGES — HOME & KITCHEN ===== -->
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/15-self-adhesive-wall-hooks.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/22-electric-egg-boiler.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/26-essential-oil-diffuser-humidifier.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/28-gas-saver-burner-stand.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/48-3in1-soap-dispenser-with-sponge-holder.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- ===== PRODUCT PAGES — HOSTELLERS ESSENTIALS ===== -->
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/102-pringle-multikettle-15l.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/103-portable-washing-machine-15l.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/104-bajaj-pygmy-mini-rechargeable-fan.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/105-gooseneck-phone-holder-for-bed.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/106-amazon-basics-foldable-laptop-table.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- ===== PRODUCT PAGES — MONSOON ESSENTIALS ===== -->
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/60-anti-fog-car-glass-cleaning-kit.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/61-electric-shoe-dryer.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/62-portable-tyre-inflator.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/63-waterproof-shoe-cover.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/64-wipro-coral-rechargeable-emergency-light.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/71-kluriz-portable-electric-clothes-dryer-uv.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/72-maz-tek-motion-sensor-light-pack-of-2.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/73-zemic-uv-reverse-folding-umbrella.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/74-cbk-smart-lock-fingerprint-biometric-padlock.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/75-mosquito-killer-racket-bat-uv-lamp-2in1.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/76-limetro-steel-foldable-clothes-drying-stand.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- ===== PRODUCT PAGES — PRIVACY & SECURITY ===== -->
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/77-striff-webcam-cover-slide-pack-of-6.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/78-clefairy-hidden-camera-detector.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/79-sharvik-125db-door-sensor-security-alarm.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/80-trodat-identity-theft-protection-stamp.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/81-etzin-usbc-data-blocker.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- ===== PRODUCT PAGES — SMART RINGS ===== -->
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/97-boat-smartring-active-plus.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/98-alti-nova-smart-ring.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/99-leaf-halo-smart-ring.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/100-ustick-smart-ring-health-tracker.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/101-bbn-hk-smart-health-ring.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- ===== PRODUCT PAGES — SMART GADGETS ===== -->
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/10-portable-mini-hand-fan.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/17-turbo-mobile-cooling-fan.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/23-ai-smart-glasses.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/65-amazon-basics-vacuum-compression-storage-bags.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/66-lifelong-universal-travel-adapter-150-countries.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/67-muvtech-zip10-mini-power-bank-10000mah.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/68-boldfit-digital-luggage-scale.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/69-apexgear-anti-theft-sling-bag.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/70-jialto-travel-soap-holder-2pcs.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- ===== PRODUCT PAGES — SMARTWATCHES ===== -->
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/38-fastrack-astor-fs1-pro-smartwatch.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/39-fire-boltt-axiom-round-smartwatch.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/40-prowatch-v1-curved-amoled-smartwatch.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/41-fire-boltt-brillia-smartwatch.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/42-noise-colorfit-ultra-3-amoled-smartwatch.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- ===== PRODUCT PAGES — SPEAKERS ===== -->
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/49-zebronics-astra-35-portable-speaker.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/50-triggr-roar-12-small-speaker.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/51-ptron-fusion-tunes-wireless-speaker.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/52-mivi-roam-2-portable-speaker.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/53-hammer-drop-x1-speaker.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- ===== PRODUCT PAGES — TOOLS & UTILITIES ===== -->
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/11-compressed-towel-tablets.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/14-montessori-busy-binder-activity-book.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/24-3d-laser-level-tool.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/27-electric-engraving-pen.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/29-tech-pouch-organizer.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/31-reusable-mini-lint-roller.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- ===== PRODUCT PAGES — SMART TVs ===== -->
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/112-xiaomi-43inch-fx-pro-qled-4k-fire-tv.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/113-vw-43inch-spectra-series-fullhd-qled-android-tv.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/114-xiaomi-43inch-x-series-4k-smart-google-tv.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/115-tcl-43inch-qled-4k-smart-google-tv.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://techfrommalabar.github.io/TechFromMalabar/product/116-lg-43inch-nano-ai-4k-webos-smart-tv.html</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+</urlset>
